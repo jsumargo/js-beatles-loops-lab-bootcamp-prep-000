@@ -17,5 +17,5 @@ function iLoveTheBeatles(n) {
   var array = [];
   do{
     
-  } while {}
+  } while {n < 15}
 }
